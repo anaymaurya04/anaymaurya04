@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parryatan App<br>👯 I’m looking to collaborate on New Ideas<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Flutter, Java, Kotlin<br>
+🔭 I’m currently working on Portfolio Website<br>👯 I’m looking to collaborate on Autmation Project<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning Flutter, Java, Kotlin<br>
 
 
 ## 🌐 Socials:
