@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Anay Maurya!<br><br>🎓 BCA 3rd Year Student at United University<br>🏠 From the historic city of Prayagraj<br>
-🌱 Currently Learning: DSA in python and Data Science/ML.
-
+🌱 Currently Learning: DSA in python and Data Science/ML.<br>
+Looking for:
+🌟 Internships | 🤝 Collaborations | 🚀 Open-source Contributions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/anay-maurya/) 
@@ -13,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anaymaurya04&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-Looking for:
-🌟 Internships | 🤝 Collaborations | 🚀 Open-source Contributions
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
