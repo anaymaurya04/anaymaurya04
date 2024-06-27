@@ -13,6 +13,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anaymaurya04&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+Looking for:
+🌟 Internships | 🤝 Collaborations | 🚀 Open-source Contributions
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
