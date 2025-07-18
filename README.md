@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Anay Maurya!<br><br>🎓 BCA 3rd Year Student at United University<br>🏠 From the historic city of Prayagraj<br>
-🌱 Currently Learning: DSA in python and Data Science/ML.<br>
+👋 Hi there! I'm Anay Maurya!<br><br>
 Looking for:
 🌟 Internships | 🤝 Collaborations | 🚀 Open-source Contributions
 
