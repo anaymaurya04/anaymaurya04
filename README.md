@@ -1,21 +1,121 @@
-# 💫 About Me:
-👋 Hi there! I'm Anay Maurya!<br><br>
-Looking for:
-🌟 Internships | 🤝 Collaborations | 🚀 Open-source Contributions
+# Hey, I'm Anay Maurya.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/anay-maurya/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://anaymaurya04.netlify.app/)
+**MCA student building backend systems, AI-powered applications, and developer tools.**
 
+I like understanding how things work under the hood — from APIs and databases to distributed systems, search, and AI infrastructure.
 
-# 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+Currently exploring **backend engineering, cloud infrastructure, DevOps, and applied AI**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anaymaurya04&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![anaymaurya04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anaymaurya04&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anaymaurya04.vercel.app-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anaymaurya04.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anay%20Maurya-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anay-maurya/)
+[![GitHub](https://img.shields.io/badge/GitHub-anaymaurya04-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anaymaurya04)
 
-[![](https://visitcount.itsvg.in/api?id=anaymaurya04&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
+## What I'm Building
+
+* **IndiSearch** — semantic search for Indian Supreme Court judgments
+* **E-Commerce Backend** — exploring microservices, REST APIs, and backend architecture
+* **AI Email Assistant** — AI-assisted email workflows and automation
+* **Developer / Infrastructure Projects** — experimenting with systems, cloud, automation, and AI tooling
+
+I’m particularly interested in the intersection of **backend engineering × AI × infrastructure**.
+
+---
+
+## Tech I Work With
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square\&logo=swagger\&logoColor=white)
+
+### Databases & Infrastructure
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+### AI / Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+
+---
+
+## Featured Work
+
+| Project                                                                                       | What it is                                                    |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **[IndiSearch](https://github.com/anaymaurya04/IndiSearch)**                                  | Semantic search engine for Indian Supreme Court judgments     |
+| **[ECommerce Backend](https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices)** | Backend architecture built around REST APIs and microservices |
+| **[AI Email Assistant](https://github.com/anaymaurya04/AI-Email-Assistant)**                  | AI-powered email assistance and automation                    |
+| **[Syntax Checker](https://github.com/anaymaurya04/Syntax-Checker)**                          | C-based syntax checking project                               |
+| **[OpenSRE](https://github.com/anaymaurya04/opensre)**                                        | Exploring AI-powered SRE and infrastructure tooling           |
+
+---
+
+## Currently Learning
+
+```text
+Backend Engineering
+        ↓
+Distributed Systems
+        ↓
+Cloud & DevOps
+        ↓
+AI Infrastructure
+        ↓
+Building useful things
+```
+
+I'm currently going deeper into:
+
+* Data Structures & Algorithms
+* Backend architecture
+* Microservices
+* Cloud & DevOps
+* Distributed systems
+* RAG and semantic search
+* AI agents and developer tooling
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaymaurya04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+---
+
+## Let's Connect
+
+If you're interested in **backend engineering, AI systems, open source, or building things**, feel free to reach out.
+
+**Portfolio:** [anaymaurya04.vercel.app](https://anaymaurya04.vercel.app)
+**LinkedIn:** [Anay Maurya](https://www.linkedin.com/in/anay-maurya/)
+**GitHub:** [@anaymaurya04](https://github.com/anaymaurya04)
+
+---
+
+<p align="center">
+  <i>Build. Break. Understand. Rebuild better.</i>
+</p>
