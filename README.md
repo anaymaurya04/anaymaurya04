@@ -1,121 +1,373 @@
-# Hey, I'm Anay Maurya.
+<!-- ======================= HERO ======================= -->
 
-**MCA student building backend systems, AI-powered applications, and developer tools.**
+<div align="center">
 
-I like understanding how things work under the hood — from APIs and databases to distributed systems, search, and AI infrastructure.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Anay%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20AI%20Systems%20%7C%20Infrastructure&descAlignY=60&descSize=20" width="100%"/>
 
-Currently exploring **backend engineering, cloud infrastructure, DevOps, and applied AI**.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=64748B&center=true&vCenter=true&width=700&lines=Building+backend+systems+and+AI+applications;Exploring+distributed+systems+and+cloud+infrastructure;Researching+RAG+%26+semantic+search;Contributing+to+open-source+software" alt="Typing introduction"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anaymaurya04.vercel.app-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anaymaurya04.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anay%20Maurya-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anay-maurya/)
-[![GitHub](https://img.shields.io/badge/GitHub-anaymaurya04-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anaymaurya04)
+<br/>
+
+<a href="https://anaymaurya04.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anay-maurya/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/anaymaurya04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## What I'm Building
+## About Me
 
-* **IndiSearch** — semantic search for Indian Supreme Court judgments
-* **E-Commerce Backend** — exploring microservices, REST APIs, and backend architecture
-* **AI Email Assistant** — AI-assisted email workflows and automation
-* **Developer / Infrastructure Projects** — experimenting with systems, cloud, automation, and AI tooling
+I'm an **MCA student** interested in how software systems work beneath the surface.
 
-I’m particularly interested in the intersection of **backend engineering × AI × infrastructure**.
+My current focus sits around:
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+APIs
+Databases
+System Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**AI Systems**
+
+RAG
+Semantic Search
+LLM Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Infrastructure**
+
+Linux
+Docker
+Cloud
+DevOps
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔬
+
+**Research**
+
+Retrieval
+Embeddings
+Evaluation
+
+</td>
+</tr>
+</table>
+
+I particularly enjoy projects where **backend engineering, AI, and infrastructure overlap**.
 
 ---
 
-## Tech I Work With
+# What I'm Working On
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔎 IndiSearch
+
+**Semantic search for Indian Supreme Court judgments.**
+
+I'm exploring how different **chunking strategies and embedding models** affect retrieval quality over Indian legal documents.
+
+The project is part of my broader work around:
+
+`RAG` · `Embeddings` · `Vector Search` · `Information Retrieval`
+
+<br/>
+
+<a href="https://github.com/anaymaurya04/IndiSearch">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 E-Commerce Backend
+
+A backend project exploring how a larger application can be decomposed into services.
+
+Focus areas:
+
+`REST APIs` · `Microservices` · `Backend Architecture` · `Databases`
+
+<br/>
+
+<a href="https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ✉️ AI Email Assistant
+
+An AI-powered application exploring how LLMs can assist with email-related workflows and automation.
+
+Focus areas:
+
+`LLMs` · `AI Workflows` · `Automation`
+
+<br/>
+
+<a href="https://github.com/anaymaurya04/AI-Email-Assistant">
+<img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛠️ OpenSRE
+
+I contribute to **OpenSRE**, an open-source project exploring AI-assisted SRE and infrastructure tooling.
+
+Working with an existing codebase gives me experience beyond building isolated personal projects.
+
+<br/>
+
+<a href="https://github.com/anaymaurya04/opensre">
+<img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,python,java,mysql&theme=dark" />
 
-### Backend & APIs
+<br/><br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square\&logo=swagger\&logoColor=white)
+### Backend
 
-### Databases & Infrastructure
+<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+<br/><br/>
 
-### AI / Data
+### Infrastructure & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" />
+
+<br/><br/>
+
+### AI / Retrieval
+
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Retrieval-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## Featured Work
+# Research
 
-| Project                                                                                       | What it is                                                    |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **[IndiSearch](https://github.com/anaymaurya04/IndiSearch)**                                  | Semantic search engine for Indian Supreme Court judgments     |
-| **[ECommerce Backend](https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices)** | Backend architecture built around REST APIs and microservices |
-| **[AI Email Assistant](https://github.com/anaymaurya04/AI-Email-Assistant)**                  | AI-powered email assistance and automation                    |
-| **[Syntax Checker](https://github.com/anaymaurya04/Syntax-Checker)**                          | C-based syntax checking project                               |
-| **[OpenSRE](https://github.com/anaymaurya04/opensre)**                                        | Exploring AI-powered SRE and infrastructure tooling           |
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:334155&height=70&text=Retrieval-Augmented%20Generation&fontSize=25&fontColor=ffffff" width="90%"/>
+
+</div>
+
+### Comparative Study of Chunking Strategies and Embedding Models for RAG on Indian Supreme Court Judgments
+
+I'm studying the interaction between **document chunking** and **embedding models** in RAG systems applied to Indian Supreme Court judgments.
+
+The experiment compares multiple retrieval configurations and evaluates them using:
+
+<table>
+<tr>
+<td align="center"><b>Recall</b><br/>Retrieval Coverage</td>
+<td align="center"><b>Precision</b><br/>Result Relevance</td>
+<td align="center"><b>MRR</b><br/>Ranking Quality</td>
+<td align="center"><b>Faithfulness</b><br/>Answer Grounding</td>
+<td align="center"><b>Cost</b><br/>Efficiency</td>
+</tr>
+</table>
+
+The broader goal is to understand **which retrieval configuration provides the best practical trade-off between retrieval quality, answer quality, latency, and cost**.
+
+This work is also informing the development of **IndiSearch**, a semantic search system for Indian legal documents.
 
 ---
 
-## Currently Learning
+# How I'm Growing
+
+<div align="center">
 
 ```text
-Backend Engineering
-        ↓
-Distributed Systems
-        ↓
-Cloud & DevOps
-        ↓
-AI Infrastructure
-        ↓
-Building useful things
+                 ┌─────────────────────┐
+                 │ Data Structures     │
+                 │ & Algorithms        │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │ Backend Engineering │
+                 │ & API Design        │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │ System Design       │
+                 │ & Distributed       │
+                 │ Systems             │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │ Cloud & DevOps      │
+                 │ Infrastructure      │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │ AI Infrastructure   │
+                 │ & AI Systems        │
+                 └─────────────────────┘
 ```
 
-I'm currently going deeper into:
+</div>
 
-* Data Structures & Algorithms
-* Backend architecture
-* Microservices
-* Cloud & DevOps
-* Distributed systems
-* RAG and semantic search
-* AI agents and developer tooling
+### Currently going deeper into
 
----
+`DSA` · `Backend Architecture` · `System Design` · `Distributed Systems`
 
-## GitHub
+`Cloud` · `DevOps` · `Linux` · `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaymaurya04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+`RAG` · `Semantic Search` · `Embeddings` · `AI Agents`
 
 ---
 
-## Let's Connect
+# Open Source
 
-If you're interested in **backend engineering, AI systems, open source, or building things**, feel free to reach out.
+<div align="center">
 
-**Portfolio:** [anaymaurya04.vercel.app](https://anaymaurya04.vercel.app)
-**LinkedIn:** [Anay Maurya](https://www.linkedin.com/in/anay-maurya/)
-**GitHub:** [@anaymaurya04](https://github.com/anaymaurya04)
+<a href="https://github.com/anaymaurya04/opensre">
+
+<img src="https://img.shields.io/badge/OpenSRE-Open%20Source%20Contributor-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+I want to become better at contributing to **real software**, not just building projects from scratch.
+
+Through open-source work, I'm learning how to:
+
+`Read unfamiliar code` → `Understand existing architecture` → `Make changes` → `Collaborate` → `Improve`
 
 ---
 
-<p align="center">
-  <i>Build. Break. Understand. Rebuild better.</i>
-</p>
+# GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anaymaurya04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anaymaurya04&hide_border=true&theme=transparent" width="70%"/>
+
+</div>
+
+---
+
+# A Few Things I'm Interested In
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-111827?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://anaymaurya04.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-anaymaurya04.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anay-maurya/">
+<img src="https://img.shields.io/badge/LinkedIn-Anay%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anaymaurya04">
+<img src="https://img.shields.io/badge/GitHub-anaymaurya04-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<i>Build. Break. Understand. Rebuild better.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
