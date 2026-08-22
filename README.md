@@ -288,9 +288,8 @@ Through open-source work, I'm learning how to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anaymaurya04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&count_private=false" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://img.shields.io/github/followers/anaymaurya04?label=Followers&style=for-the-badge&logo=github&color=0f172a&logoColor=white"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanaymaurya04&label=Public%20Repos&query=%24.public_repos&color=0f172a&style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -298,7 +297,12 @@ Through open-source work, I'm learning how to:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anaymaurya04&hide_border=true&theme=transparent" width="70%"/>
+| Repository | Language | Stars | Last Commit |
+|---|---|---|---|
+| [IndiSearch](https://github.com/anaymaurya04/IndiSearch) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/IndiSearch?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/IndiSearch?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/IndiSearch?style=flat-square&label=%20&color=334155) |
+| [ECommerce-Backend-with-Microservices](https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square&label=%20&color=334155) |
+| [AI-Email-Assistant](https://github.com/anaymaurya04/AI-Email-Assistant) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/AI-Email-Assistant?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/AI-Email-Assistant?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/AI-Email-Assistant?style=flat-square&label=%20&color=334155) |
+| [opensre](https://github.com/anaymaurya04/opensre) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/opensre?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/opensre?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/opensre?style=flat-square&label=%20&color=334155) |
 
 </div>
 
