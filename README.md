@@ -288,7 +288,7 @@ Through open-source work, I'm learning how to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anaymaurya04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anaymaurya04&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&count_private=false" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaymaurya04&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
@@ -298,7 +298,7 @@ Through open-source work, I'm learning how to:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anaymaurya04&hide_border=true&theme=transparent" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=anaymaurya04&hide_border=true&theme=transparent" width="70%"/>
 
 </div>
 
@@ -332,19 +332,19 @@ Through open-source work, I'm learning how to:
 <img src="https://img.shields.io/badge/Portfolio-anaymaurya04.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/anay-maurya/">
 <img src="https://img.shields.io/badge/LinkedIn-Anay%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://github.com/anaymaurya04">
 <img src="https://img.shields.io/badge/GitHub-anaymaurya04-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://leetcode.com/u/anaymaurya04/">
 <img src="https://img.shields.io/badge/LeetCode-anaymaurya04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
