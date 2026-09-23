@@ -2,26 +2,32 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Anay%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20AI%20Systems%20%7C%20Infrastructure&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Anay%20Maurya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineering&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=64748B&center=true&vCenter=true&width=700&lines=Building+backend+systems+and+AI+applications;Exploring+distributed+systems+and+cloud+infrastructure;Building+RAG+%26+semantic+search+systems;Contributing+to+open-source+software" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=64748B&center=true&vCenter=true&width=700&lines=Building+backend+systems+with+Java+%26+Spring+Boot;Designing+REST+APIs+and+database-driven+systems;Exploring+distributed+systems+and+reliability;Learning+through+building%2C+testing+%26+breaking+systems" alt="Typing introduction"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://anaymaurya04.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/anay-maurya/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/anaymaurya04">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://leetcode.com/u/anaymaurya04/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -30,91 +36,52 @@
 
 ---
 
-## About Me
+# About Me
 
-I'm an **MCA student** interested in how software systems work beneath the surface.
+I'm an **MCA student focused on backend engineering**, with a particular interest in building reliable systems using **Java and Spring Boot**.
 
-My current focus sits around:
+My current focus is:
 
-<table>
-<tr>
+```text
+Java
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+PostgreSQL / SQL
+  ↓
+Concurrency & Transactions
+  ↓
+Distributed Systems
+  ↓
+Cloud & Infrastructure
+```
 
-<td align="center" width="25%">
+I enjoy understanding what happens beneath an API — database transactions, concurrency, failure handling, retries, system state, and the trade-offs behind backend architecture.
 
-### ⚙️
-
-**Backend**
-
-APIs
-Databases
-System Design
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**AI Systems**
-
-RAG
-Semantic Search
-LLM Applications
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**Infrastructure**
-
-Linux
-Docker
-Cloud
-DevOps
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔧
-
-**Engineering**
-
-DSA
-Open Source
-Developer Tools
-
-</td>
-
-</tr>
-</table>
-
-I particularly enjoy projects where **backend engineering, AI, and infrastructure overlap**.
+I'm currently strengthening my fundamentals through backend projects, DSA, system design, and open-source contributions.
 
 ---
 
-# What I'm Working On
+# What I'm Building
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔎 IndiSearch
+## ⚡ Relay
 
-**Semantic search for Indian Supreme Court judgments.**
+**Durable execution and reliability layer for business-critical operations.**
 
-I'm building a retrieval-based search system designed to find relevant legal documents using **semantic similarity rather than relying only on traditional keyword matching**.
+A Java/Spring Boot system designed to handle ambiguous failures, retries, idempotency, asynchronous execution, and crash recovery.
 
-Focus areas:
+Focus:
 
-`RAG` · `Embeddings` · `Vector Search` · `Information Retrieval`
+`Spring Boot` · `PostgreSQL` · `REST` · `Concurrency` · `Retries` · `Distributed Systems`
 
-<br/>
-
-<a href="https://github.com/anaymaurya04/IndiSearch">
+<a href="https://github.com/anaymaurya04/Relay">
 <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -124,13 +91,11 @@ Focus areas:
 
 ## 🛒 E-Commerce Backend
 
-A backend project exploring how a larger application can be decomposed into services.
+Backend system exploring service-oriented architecture and database-driven application design.
 
-Focus areas:
+Focus:
 
-`REST APIs` · `Microservices` · `Backend Architecture` · `Databases`
-
-<br/>
+`Java` · `Spring Boot` · `REST APIs` · `Databases` · `Backend Architecture`
 
 <a href="https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices">
 <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -144,17 +109,17 @@ Focus areas:
 
 <td width="50%" valign="top">
 
-## ✉️ AI Email Assistant
+## 🔎 IndiSearch
 
-An AI-powered application exploring how LLMs can assist with email-related workflows and automation.
+Semantic search system for Indian Supreme Court judgments.
 
-Focus areas:
+An AI-focused project exploring how backend systems can integrate retrieval and vector search workflows.
 
-`LLMs` · `AI Workflows` · `Automation`
+Focus:
 
-<br/>
+`Python` · `RAG` · `Embeddings` · `Vector Search`
 
-<a href="https://github.com/anaymaurya04/AI-Email-Assistant">
+<a href="https://github.com/anaymaurya04/IndiSearch">
 <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -164,11 +129,9 @@ Focus areas:
 
 ## 🛠️ OpenSRE
 
-I contribute to **OpenSRE**, an open-source project exploring AI-assisted SRE and infrastructure tooling.
+Open-source contribution focused on AI-assisted SRE and infrastructure tooling.
 
-Working with an existing codebase gives me experience beyond building isolated personal projects.
-
-<br/>
+Working in an existing codebase to understand architecture, debug issues, and contribute changes.
 
 <a href="https://github.com/anaymaurya04/opensre">
 <img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -187,100 +150,136 @@ Working with an existing codebase gives me experience beyond building isolated p
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,java,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql&theme=dark"/>
 
 <br/><br/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,fastapi&theme=dark"/>
+
+<br/><br/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark"/>
 
 <br/><br/>
 
 ### Infrastructure & Tools
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark" />
-
-<br/><br/>
-
-### AI / Retrieval
-
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Retrieval-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github&theme=dark"/>
 
 </div>
+
+### Backend
+
+`Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate`
+
+`REST APIs` · `JDBC` · `JPA` · `SQL` · `Maven`
+
+### Engineering
+
+`OOP` · `DSA` · `Database Design` · `Transactions` · `Concurrency`
+
+`System Design` · `Distributed Systems` · `Testing` · `Debugging`
+
+### Secondary
+
+`Python` · `FastAPI` · `RAG` · `Semantic Search` · `LLM Applications`
 
 ---
 
 # Currently Learning
 
-<div align="center">
-
 ```text
-                 ┌─────────────────────┐
-                 │ Data Structures     │
-                 │ & Algorithms        │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ Backend Engineering │
-                 │ & API Design        │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ System Design       │
-                 │ & Distributed       │
-                 │ Systems             │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ Cloud & DevOps      │
-                 │ Infrastructure      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ AI Infrastructure   │
-                 │ & AI Systems        │
-                 └─────────────────────┘
+┌─────────────────────────┐
+│ Java & OOP              │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Spring Boot             │
+│ REST APIs               │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ PostgreSQL & JPA        │
+│ Transactions            │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Backend Architecture    │
+│ Concurrency             │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Distributed Systems     │
+│ Reliability             │
+└────────────┬────────────┘
+             ↓
+┌─────────────────────────┐
+│ Cloud & Infrastructure  │
+└─────────────────────────┘
 ```
 
-</div>
+Currently going deeper into:
 
-### Going deeper into
+`Spring Boot` · `PostgreSQL` · `JPA/Hibernate`
 
-`DSA` · `Backend Architecture` · `System Design` · `Distributed Systems`
+`REST API Design` · `Concurrency` · `Transactions`
 
-`Cloud` · `DevOps` · `Linux` · `Docker`
-
-`RAG` · `Semantic Search` · `Embeddings` · `AI Agents`
+`System Design` · `Distributed Systems` · `Docker`
 
 ---
 
 # Open Source
 
-<div align="center">
+I want to become better at contributing to **real production codebases**, not only building projects from scratch.
+
+My approach:
+
+```text
+Read unfamiliar code
+        ↓
+Understand architecture
+        ↓
+Reproduce the problem
+        ↓
+Implement a change
+        ↓
+Test
+        ↓
+Contribute
+```
+
+Currently contributing to:
+
+**OpenSRE**
 
 <a href="https://github.com/anaymaurya04/opensre">
-
 <img src="https://img.shields.io/badge/OpenSRE-Open%20Source%20Contributor-111827?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
+---
+
+# Engineering Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Concurrency-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-111827?style=for-the-badge"/>
+
 </div>
-
-I want to become better at contributing to **real software**, not just building projects from scratch.
-
-Through open-source work, I'm learning how to:
-
-`Read unfamiliar code` → `Understand existing architecture` → `Make changes` → `Collaborate` → `Improve`
 
 ---
 
@@ -297,32 +296,12 @@ Through open-source work, I'm learning how to:
 
 <div align="center">
 
-| Repository | Language | Stars | Last Commit |
-|---|---|---|---|
-| [IndiSearch](https://github.com/anaymaurya04/IndiSearch) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/IndiSearch?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/IndiSearch?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/IndiSearch?style=flat-square&label=%20&color=334155) |
-| [ECommerce-Backend-with-Microservices](https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square&label=%20&color=334155) |
-| [AI-Email-Assistant](https://github.com/anaymaurya04/AI-Email-Assistant) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/AI-Email-Assistant?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/AI-Email-Assistant?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/AI-Email-Assistant?style=flat-square&label=%20&color=334155) |
-| [opensre](https://github.com/anaymaurya04/opensre) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/opensre?style=flat-square&label=%20&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/opensre?style=flat-square&label=%20&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/opensre?style=flat-square&label=%20&color=334155) |
-
-</div>
-
----
-
-# Areas I'm Interested In
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Backend%20Systems-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Infrastructure-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DevOps-111827?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Developer%20Tools-111827?style=for-the-badge"/>
+| Repository                                                                                | Language                                                                                                                                          | Stars                                                                                                                                      | Last Commit                                                                                                                                            |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Relay](https://github.com/anaymaurya04/Relay)                                            | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/Relay?style=flat-square\&label=%20\&color=334155)                                | ![stars](https://img.shields.io/github/stars/anaymaurya04/Relay?style=flat-square\&label=%20\&color=334155)                                | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/Relay?style=flat-square\&label=%20\&color=334155)                                |
+| [ECommerce Backend](https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices) | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square\&label=%20\&color=334155) | ![stars](https://img.shields.io/github/stars/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square\&label=%20\&color=334155) | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/ECommerce-Backend-with-Microservices?style=flat-square\&label=%20\&color=334155) |
+| [IndiSearch](https://github.com/anaymaurya04/IndiSearch)                                  | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/IndiSearch?style=flat-square\&label=%20\&color=334155)                           | ![stars](https://img.shields.io/github/stars/anaymaurya04/IndiSearch?style=flat-square\&label=%20\&color=334155)                           | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/IndiSearch?style=flat-square\&label=%20\&color=334155)                           |
+| [OpenSRE](https://github.com/anaymaurya04/opensre)                                        | ![lang](https://img.shields.io/github/languages/top/anaymaurya04/opensre?style=flat-square\&label=%20\&color=334155)                              | ![stars](https://img.shields.io/github/stars/anaymaurya04/opensre?style=flat-square\&label=%20\&color=334155)                              | ![last commit](https://img.shields.io/github/last-commit/anaymaurya04/opensre?style=flat-square\&label=%20\&color=334155)                              |
 
 </div>
 
@@ -336,19 +315,19 @@ Through open-source work, I'm learning how to:
 <img src="https://img.shields.io/badge/Portfolio-anaymaurya04.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="https://www.linkedin.com/in/anay-maurya/">
 <img src="https://img.shields.io/badge/LinkedIn-Anay%20Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="https://github.com/anaymaurya04">
 <img src="https://img.shields.io/badge/GitHub-anaymaurya04-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;
+ 
 
 <a href="https://leetcode.com/u/anaymaurya04/">
 <img src="https://img.shields.io/badge/LeetCode-anaymaurya04-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
