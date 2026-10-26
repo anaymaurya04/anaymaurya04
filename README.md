@@ -26,13 +26,6 @@ Semantic search over Indian Supreme Court judgments using retrieval-augmented ge
 **Stack:** Python, Embeddings, Vector Search
 
 ---
-
-## Open Source
-
-**[OpenSRE](https://github.com/anaymaurya04/opensre)**: contributing to an AI-assisted SRE and infrastructure tooling project. Reading an existing codebase, reproducing issues, and submitting fixes.
-
----
-
 ## Tech Stack
 
 | Area | Tools |
