@@ -8,24 +8,6 @@ I build backend systems and care about what happens under the API: transactions,
 
 ---
 
-## Projects
-
-### [Relay](https://github.com/anaymaurya04/Relay)
-Durable execution and reliability layer for business-critical operations. Handles ambiguous failures, retries, idempotency, asynchronous execution, and crash recovery.
-
-**Stack:** Java, Spring Boot, PostgreSQL, REST
-
-### [E-Commerce Backend](https://github.com/anaymaurya04/ECommerce-Backend-with-Microservices)
-Microservices-based e-commerce backend covering service-oriented architecture and database-driven application design.
-
-**Stack:** Java, Spring Boot, REST APIs, SQL
-
-### [IndiSearch](https://github.com/anaymaurya04/IndiSearch)
-Semantic search over Indian Supreme Court judgments using retrieval-augmented generation (RAG) and vector search.
-
-**Stack:** Python, Embeddings, Vector Search
-
----
 ## Tech Stack
 
 | Area | Tools |
